@@ -1,13 +1,10 @@
 package main
 
-import {
+import (
 	"fmt"
-	"../test.go"
-}
+)
 
 func main() {
 	fmt.Println("Hello KO-utvecklare!!!")
 	printLoremIpsum()
 }
-
-
